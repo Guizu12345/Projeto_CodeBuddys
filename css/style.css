@@ -1,0 +1,37 @@
+#header{
+    background-color:rgb(69, 83, 95);
+    color: oldlace;
+
+}
+
+#logo img{
+    height: 200px;
+}
+#menu {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    display: flex;
+    list-style: none;
+}
+#menu{
+    margi
+}
+#menu li a {
+    color: cyan;
+    text-decoration: none;
+}
+.btn {
+    background-color: rgb(37, 38, 97);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    line-height: 30px;
+    transform: translateY(-50%);
+    border-radius: 10px 0px 0px 0px;
+
+}
+
+.btn:hover{
+    background-color: steelblue;
+}
