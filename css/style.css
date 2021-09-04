@@ -1,10 +1,9 @@
 #header{
 
-    background-color:rgb(207, 142, 0);
+    background-color: Chocolate;
     color: oldlace;
 
 }
-
 #logo img{
     height: 200px;
 }
@@ -16,11 +15,11 @@
     list-style: none;
 }
 #menu li a {
-    color: rgb(243, 199, 103); ;
+    color: SaddleBrown; ;
     text-decoration: none;
 }
 .btn {
-    background-color: rgb(102, 66, 0);
+    background-color: SandyBrown;
     height: 30px;
     width: 100px;
     text-align: center;
@@ -30,6 +29,31 @@
 
 }
 .btn:hover{
-    background-color: rgb(68, 39, 0);
+    background-color: Sienna;
 }
-
+#textohome{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;"
+    color: rgb(255 246 143);
+}
+#texto_experimentar{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;"
+    color: rgb(165 42 42);
+    left: 30%;
+    top: 35%;
+}
+#pqdr{
+    height: 500px;
+    position: absolute;
+    left: 0%;
+    top: 35%;
+}
+#textoAU{   
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;"
+    color: rgb(255 246 143);
+}
